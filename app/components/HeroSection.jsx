@@ -295,6 +295,7 @@ export default function HeroSection() {
           <span>Scroll to explore</span>
           <div className="w-px h-10 bg-gradient-to-b from-neon-purple/50 to-transparent animate-pulse" />
         </div>
+      </div>
     </section>
   );
 }
