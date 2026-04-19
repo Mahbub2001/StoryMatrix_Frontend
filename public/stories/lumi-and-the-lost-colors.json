@@ -1,0 +1,182 @@
+{
+  "story_name": "Lumi and the Lost Colors",
+  "full_story": "High above the clouds, there once floated a beautiful town where colors were not just decoration but the very essence of life itself, glowing warmly in the golden light of morning as a small luminous creature named Lumi drifted gently through the air; but one day, something began to feel wrong as the vibrant reds, blues, and greens slowly started to fade, spreading like a silent wave until half the world turned gray, leaving Lumi confused and searching for answers. Guided by curiosity, Lumi entered a magical art hut where an ancient enchanted paintbrush revealed that the balance of the world was breaking and that the scattered fragments of the Color Core—the source of all color—needed to be restored; determined to help, Lumi set out on a journey across fading lands. In a quiet forest losing its green, Lumi comforted a frightened rabbit and released a glowing fragment that brought life rushing back into the trees and grass; in a pale desert that had forgotten warmth, Lumi found a joyful little sand creature and restored the golden glow of sunlight to the dunes; and atop a cold, gray mountain where even the sky had lost its blue, Lumi saved a struggling bird and returned the vast, vibrant sky to life. Carrying the gathered fragments, Lumi soared back to the floating town, where the pieces merged into a radiant Color Core that pulsed with energy, and as it stabilized, a brilliant wave of color spread across the entire world, reviving every corner in a breathtaking transformation. At last, the town shimmered brighter than ever before, full of movement and joy, and as the sun set in warm golden hues, Lumi floated peacefully, its glow steady and calm, quietly realizing that the world was whole again—and more beautiful than it had ever been.",
+  "style": "high-quality 3D animated cartoon, Pixar-like rendering, soft global illumination, volumetric lighting, vibrant cinematic color grading, shallow depth of field, smooth motion consistency",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Wide establishing shot of a floating cartoon town suspended above clouds, buildings made of soft rounded geometry with bright saturated colors, morning golden sunlight casting long soft shadows, Lumi a small glowing spherical creature hovering slowly above streets, gentle wind particles moving through trees, cinematic slow dolly forward",
+        "Medium orbiting camera around Lumi as subtle color instability begins in nearby buildings, reds and blues slowly desaturating, texture remains but hue fades, Lumi tilts slightly in confusion, glow flickers softly, environment lighting shifts cooler, floating particles lose saturation",
+        "Extreme wide shot showing split world effect where half the town remains vibrant and the other half becomes grayscale, boundary line slowly advancing like a wave, birds crossing boundary lose color mid-flight, dramatic atmospheric depth, slow zoom out"
+      ],
+      "first_frame_prompt": [
+        "Floating cartoon sky town with rounded colorful buildings, soft golden sunrise lighting, volumetric sun rays, gentle clouds below floating island, Lumi glowing softly mid-air, cinematic depth of field, vibrant saturated palette, calm wind particles",
+        "Same town partially desaturating on one side, Lumi hovering mid-air with slight tilt, soft flickering glow, camera slightly orbiting, cooler lighting on right side, emotional contrast beginning",
+        "Wide aerial composition of half-colorful half-gray world split sharply, cloud layer below, birds frozen mid-transition, Lumi centered small in frame, cinematic contrast lighting, slow atmospheric haze"
+      ],
+      "speech": [
+        "The narrator said that long ago there was a beautiful town above the clouds where colors gave life to everything.",
+        "The narrator said that one day something strange began to happen as the colors slowly started to disappear.",
+        "Lumi said softly that it did not understand why everything was losing its color."
+      ],
+      "subtitle": [
+        "There was a beautiful town above the clouds where colors gave life to everything.",
+        "One day something strange began to happen as the colors started to disappear.",
+        "Why is everything losing its color?"
+      ],
+      "cut": [true, false, false],
+      "duration": [5, 5, 5]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Interior of a magical art hut filled with floating glowing paint particles, wooden shelves with brushes and jars of liquid light, warm amber lighting, old enchanted paintbrush character floating gently above table, Lumi entering through circular doorway, slow camera pan revealing space",
+        "Close-up dialogue moment with paintbrush character, glowing holographic fragments of pure color floating between them forming abstract shapes of world maps, Lumi's reflective eyes showing fragments clearly, soft bokeh background, shallow depth of field",
+        "Lumi slowly rises in frame as decision is made, body glow intensifies, doorway behind opens into bright overexposed sky, strong backlight silhouette, dust-like paint particles drifting in air, slow push-in"
+      ],
+      "first_frame_prompt": [
+        "Cozy magical wooden hut interior, floating luminous paint particles, warm amber volumetric lighting, enchanted paintbrush character hovering above table, detailed wood textures, soft cinematic glow",
+        "Close-up composition with floating color fragments between Lumi and paintbrush, reflections visible in Lumi glossy eyes, shallow depth of field, warm magical lighting",
+        "Lumi centered near glowing doorway, strong backlight silhouette, floating dust particles, warm interior fading into bright exterior light, cinematic contrast"
+      ],
+      "speech": [
+        "The paintbrush said that the world was beginning to lose its balance and that the colors were fading away.",
+        "The paintbrush explained that these fragments were pieces of the Color Core which once held all colors together.",
+        "Lumi said with determination that it would restore the world and bring all the colors back."
+      ],
+      "subtitle": [
+        "The world is losing its balance.",
+        "These are pieces of the Color Core.",
+        "I will bring the colors back."
+      ],
+      "cut": [true, false, false],
+      "duration": [5, 5, 5]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Wide forest landscape where green color is gradually fading from trees, leaves still physically moving but losing saturation frame by frame, soft wind motion, Lumi flying between branches, tracking camera following movement",
+        "Medium emotional shot of small rabbit sitting beside gray tree trunk, subtle breathing motion, ears drooping, Lumi slowly approaches from left side, soft downward camera tilt, muted lighting environment",
+        "Close-up transformation shot as Lumi releases green fragment, liquid light expands outward in ripple waves, grass regains saturation progressively, particles swirl upward like pollen, lighting warms dynamically"
+      ],
+      "first_frame_prompt": [
+        "Enchanted forest with partially faded green trees, Lumi floating between branches, soft diffused lighting, natural depth layers, subtle wind motion, cinematic forest haze",
+        "Sad cartoon rabbit sitting beside dull gray tree trunk, soft shadows, Lumi approaching from distance, muted color palette, emotional framing with negative space",
+        "Close-up of glowing green energy fragment in Lumi's hand, suspended particles, surrounding grass desaturated, ready for restoration effect"
+      ],
+      "speech": [
+        "The narrator said that even the forest had started to forget what green looked like.",
+        "Lumi said softly that the rabbit did not need to be afraid and that help had arrived.",
+        "The narrator said that slowly the forest began to come back to life."
+      ],
+      "subtitle": [
+        "Even the forest was losing its green.",
+        "Don't worry… I'm here.",
+        "The forest came back to life."
+      ],
+      "cut": [true, false, false],
+      "duration": [5, 5, 3]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Wide desert environment with pale sand dunes and low contrast lighting, heat haze visible, Lumi flying low following wind currents, camera side tracking movement, atmospheric dust particles",
+        "Medium playful interaction shot where sand creature bounces and reshapes body with soft physics, expressive cartoon motion, Lumi reacting with curiosity, slight handheld camera feel for liveliness",
+        "Dramatic restoration sequence where golden color wave spreads through desert, dunes gain warm orange saturation, sky shifts into sunset gradient, long shadows form dynamically, cinematic transformation"
+      ],
+      "first_frame_prompt": [
+        "Desert landscape with muted pale dunes, Lumi flying low near ground, heat haze distortion, soft lighting, atmospheric dust particles, cinematic wide framing",
+        "Small sand creature in playful mid-motion bounce, Lumi observing closely, soft focus background, muted desert tones",
+        "Energy-rich golden fragment activating mid-air, beginning color restoration ripple across sand surface"
+      ],
+      "speech": [
+        "The narrator said that the desert had not felt warmth for a very long time.",
+        "Lumi said softly that even without color, the little creature still found a way to be joyful.",
+        "The narrator said that the desert finally remembered what warmth felt like."
+      ],
+      "subtitle": [
+        "The desert had not felt warmth for a long time.",
+        "You are still playing…",
+        "The desert remembered warmth."
+      ],
+      "cut": [true, false, false],
+      "duration": [3, 4, 4]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Snowy mountain peak under fully gray sky, low contrast environment, Lumi ascending against strong wind currents, snow particles flowing realistically, camera slow tilt upward emphasizing scale",
+        "Medium emotional shot of small bird struggling mid-air, wings flapping with reduced energy, sky dull and flat, Lumi approaching slowly, slight slow-motion effect",
+        "High-impact transformation shot where blue fragment releases into sky, ink-like diffusion spreads across clouds, sky regains depth gradient, bird regains strength and flies upward smoothly"
+      ],
+      "first_frame_prompt": [
+        "Snow-covered mountain landscape under gray overcast sky, Lumi floating upward, strong wind particles, cinematic cold tone, low saturation environment",
+        "Small bird frozen mid-flight struggling against wind, muted lighting, Lumi approaching from distance, emotional framing",
+        "Close-up glowing blue fragment suspended in Lumi aura, sky still gray awaiting transformation"
+      ],
+      "speech": [
+        "The narrator said that even the sky had forgotten its blue color.",
+        "Lumi said gently that the bird should stay strong and that it would not let it fall.",
+        "The narrator said that the sky slowly came back to life again."
+      ],
+      "subtitle": [
+        "Even the sky forgot its blue.",
+        "Hold on… I won't let you fall.",
+        "The sky came back to life."
+      ],
+      "cut": [true, false, false],
+      "duration": [3, 4, 4]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Lumi flying back toward town carrying multiple floating color fragments orbiting around body in synchronized motion, high energy particle trails, dynamic forward tracking camera",
+        "Color Core formation sequence above town center where fragments merge into rotating energy sphere, swirling chromatic streams interweaving, lighting flickers across environment",
+        "Extreme close-up of stabilized Color Core emitting rhythmic pulses of light, surrounding air vibrating with color energy, suspended particles floating in slow motion"
+      ],
+      "first_frame_prompt": [
+        "Lumi flying fast through sky with multiple glowing fragments orbiting symmetrically, motion blur trails, cinematic energy buildup, vibrant lighting",
+        "Fragments converging mid-air forming unstable Color Core structure, swirling chromatic vortex, dynamic composition",
+        "Close-up stabilized glowing Color Core emitting rhythmic pulses, floating particles suspended in air, intense luminous focus"
+      ],
+      "speech": [
+        "The narrator said that Lumi was bringing the broken pieces of the world back together.",
+        "The paintbrush said from memory that balance must be restored to save the world.",
+        "Lumi whispered that everything was almost complete."
+      ],
+      "subtitle": [
+        "Lumi brought the pieces back together.",
+        "Balance must be restored.",
+        "Almost there…"
+      ],
+      "cut": [true, false, false],
+      "duration": [3, 4, 3]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Massive color restoration wave expands outward across entire town, buildings, trees, sky regain saturation in synchronized ripple, cinematic slow motion",
+        "Wide celebratory shot of fully restored vibrant town with dynamic movement of characters, birds, wind, and flowing environment, camera crane upward revealing scale",
+        "Final emotional close-up of Lumi floating peacefully in golden sunset light, soft stable glow, gentle smile expression, shallow depth of field, particles drifting calmly"
+      ],
+      "first_frame_prompt": [
+        "Explosive color wave expanding outward across world, intense luminous saturation burst, cinematic motion blur, environment mid-transition",
+        "Fully restored vibrant cartoon town alive with motion and color, dynamic environment, high saturation lighting",
+        "Close-up Lumi floating peacefully in golden sunset, soft glow stabilized, emotional calm framing, shallow depth of field"
+      ],
+      "speech": [
+        "The narrator said that the world finally remembered everything it had lost.",
+        "The narrator said that the world had become even more beautiful than it was before.",
+        "Lumi said softly that the world was beautiful again and that it felt happy."
+      ],
+      "subtitle": [
+        "The world remembered everything.",
+        "More beautiful than before.",
+        "It's beautiful… I'm happy."
+      ],
+      "cut": [true, false, false],
+      "duration": [4, 4, 5]
+    }
+  ]
+}
