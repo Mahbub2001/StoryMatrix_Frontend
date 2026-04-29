@@ -7,6 +7,7 @@ import MethodologySection from "./components/MethodologySection";
 import ComparisonSection from "./components/ComparisonSection";
 import ResearchSection from "./components/ResearchSection";
 import DevelopersSection from "./components/DevelopersSection";
+import VideoGenerationsSection from "./components/VideoGenerationsSection";
 import Footer from "./components/Footer";
 import ProgressBar from "./components/ProgressBar";
 import BackToTop from "./components/BackToTop";
@@ -21,6 +22,7 @@ export default function Home() {
       <Navbar />
       <HeroSectionEnhanced />
       <ShowcaseSection />
+      <VideoGenerationsSection />
       <MethodologySection />
       <ComparisonSection />
       <ResearchSection />

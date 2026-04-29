@@ -2,7 +2,7 @@ const developers = [
   {
     name: "Mahbub Ahmed Turza",
     role: "Undergrad Student, Computer Science & Engineering (CSE)",
-    bio: "Developer of StoryMatrix-4D. North South University (NSU). Email: mahbub.turza@northsouth.edu",
+    bio: "Research & Developer of StoryMatrix-4D. North South University (NSU). Email: mahbub.turza@northsouth.edu",
     image: "/team/dev-1.svg",
     skills: [],
   },
